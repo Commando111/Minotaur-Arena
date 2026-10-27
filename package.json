@@ -1,0 +1,9 @@
+{
+  "name": "minotaur-arena",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minotaur's Arena: a 4-player online party game. Friends join by scanning a QR code.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
